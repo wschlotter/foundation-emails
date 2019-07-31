@@ -24,7 +24,7 @@
     "clipboard-js": "^0.2.0",
     "foundation-docs": "zurb/foundation-docs",
     "foundation-sites": "^6.2.0",
-    "gulp": "^3.8.11",
+    "gulp": "^4",
     "gulp-autoprefixer": "^2.3.1",
     "gulp-cached": "^1.1.0",
     "gulp-concat": "^2.6.0",
